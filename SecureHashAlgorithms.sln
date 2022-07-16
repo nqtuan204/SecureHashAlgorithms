@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SecureHashAlgorithms", "SecureHashAlgorithms\SecureHashAlgorithms.csproj", "{EA4E67B6-3624-4535-AD9A-7E1D2301E7BC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA4E67B6-3624-4535-AD9A-7E1D2301E7BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA4E67B6-3624-4535-AD9A-7E1D2301E7BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA4E67B6-3624-4535-AD9A-7E1D2301E7BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA4E67B6-3624-4535-AD9A-7E1D2301E7BC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {481C8110-9554-4549-8738-CF0170C6E7EA}
+	EndGlobalSection
+EndGlobal
